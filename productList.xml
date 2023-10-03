@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "productListStyle.css" ?>
+<product>
+    <title> Here are our jeans offerings! : </title>
+    <jeans>
+        <name> Levis 501</name>
+        <description> Light wash American made denim </description>
+        <size> Size: 32 </size>
+        <price> $60 </price>
+        <type>
+            <category> American denim, straight cut </category>
+        </type>
+    </jeans>
+    <jeans>
+        <name> Evisu Seagull</name>
+        <description> Dark wash baggy fit </description>
+        <size> Size: 36 </size>
+        <price> $200 </price>
+        <type>
+            <category> Japanese denim, baggy cut </category>
+        </type>
+    </jeans>
+    <jeans>
+        <name> Kapital Patchwork Denim</name>
+        <description> Colorful patchwork denim  </description>
+        <size> Size: 30 </size>
+        <price> $455 </price>
+        <type>
+            <category> Japanese denim, skinny cut </category>
+        </type>
+    </jeans>
+    <jeans>
+        <name> Gap Boot Cut</name>
+        <description> Long leg boot cut denim </description>
+        <size> Size: 38 </size>
+        <price> $40 </price>
+        <type>
+            <category> American denim, boot cut </category>
+        </type>
+    </jeans>
+    <jeans>
+        <name> Levis 510 White</name>
+        <description> White denim skinny jeans </description>
+        <size> Size: 32 </size>
+        <price> $50 </price>
+        <type>
+            <category> American denim, skinny cut </category>
+        </type>
+    </jeans>
+    <jeans>
+        <name> Hollister wide fit</name>
+        <description> Stretchy athletic feeling jeans </description>
+        <size> Size: 28 </size>
+        <price> $40 </price>
+        <type>
+            <category> American denim, wide cut </category>
+        </type>
+    </jeans>
+    <jeans>
+        <name> Lee khaki colored carpenter jeans</name>
+        <description> Carpenter style, light khaki colored denim </description>
+        <size> Size: 35 </size>
+        <price> $49.99 </price>
+        <type>
+            <category> American denim, carpenter cut </category>
+        </type>
+    </jeans>
+    <jeans>
+        <name> Abercrombie and fitch camoflouge loose</name>
+        <description> Camoflouge design Abercrombie and Fitch denim </description>
+        <size> Size: 31 </size>
+        <price> $62 </price>
+        <type>
+            <category> American denim, loose cut </category>
+        </type>
+    </jeans>
+</product>

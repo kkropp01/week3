@@ -1,0 +1,53 @@
+body {
+    background-color: aliceblue;
+}
+
+title {
+    display: block; 
+    text-decoration: underline;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+jeans {
+    display: block;
+    border: silver 6px;
+    background-color: darkslategrey;
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+
+name, description, size, price, type {
+    display: block;
+}
+name {
+    color: white;
+    text-decoration: underline;
+}
+
+name::after {
+    content: ":";
+}
+
+description::before {
+    content: "Description:";
+}
+
+price::before {
+    content: "Price:";
+}
+
+type::before{
+    content: "Categories:";
+}
+
+category {
+    list-style-type: disc;
+    list-style-position: inside;
+    display: inline;
+}
